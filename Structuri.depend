@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1616274009 source:d:\scoala\info\proiecte\structuri\main.cpp
+	<iostream>
+	<fstream>
+	<map>
+
